@@ -8,7 +8,7 @@ trigger:
 
 pool:
   vmImage: ubuntu-latest
-  name: myAgentPool
+  name: Azure Pipelines
 
 steps:
 - script: echo Hello, world!
